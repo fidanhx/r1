@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.main{
+    padding-top: 75px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    font-family: "Roboto Slab";
+    width: 700px;
+    height: 900px;
+    border: 1px solid rgb(209, 205, 205);
+    box-shadow: 10px 10px 10px 10px  rgb(226, 231, 197);
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.name{
+    font-size: 48px;
+    padding: 0;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.gray{
+    background-color: rgb(228, 222, 222);
+    width: 300px;
+    height: 800px;
+    border-radius: 10px;
+    padding-top: 30px;
+}
+
+.contact{
+    list-style-type: none;
+    padding: 30px 0 50px 0;
+}
+.edu{
+    list-style-type: none;
+    padding: 0px 0 100px 0;
+}
+
+li{
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+li:first-child{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.hr1{
+    width: 100px;
+}
+
+.hr2{
+    width: 250px;
+}
+
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.skills{
+    margin-top: 30px;
+    list-style-type: none;
+    
+}
+
+.skill2{
+    list-style-type: none;
+}
+
+.abNN{
+    list-style-type: none;
+}
+
+.about{
+    font-size: 19px;
+    padding-left: 15px;
+}
+
+.hr5{
+    width: 100px;
+}
+
+.hr3{
+    width: 150px;
+}
+
+.hr4{
+    width: 300px;
+}
